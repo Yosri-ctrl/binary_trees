@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
-*binary_tree_leaves - binary_tree_leaves
+*binary_tree_nodes - binary_tree_nodes
 *@tree: tree to check
 *Return: The leaves from 0 to position of a node
 */
